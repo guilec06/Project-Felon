@@ -16,6 +16,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <poll.h>
+#include <vector>
 
 #include "Logger.hpp"
 
